@@ -1,6 +1,6 @@
 # Discord Cleanup Tool
 
-This Python script is designed to safely detect and remove specific folders associated with Discord installations that may be compromised or contain unwanted files. It specifically targets installations such as Discord, DiscordCanary, DiscordPTB, and DiscordDevelopment, focusing on directories that match known patterns indicative of modifications.
+This Python script is designed to safely detect and remove specific folders associated with Discord installations that may be compromised or contain unwanted files(Token grabbers that injects into discord etc...). It specifically targets installations such as Discord, DiscordCanary, DiscordPTB, and DiscordDevelopment, focusing on directories that match known patterns indicative of modifications.
 
 ## Features
 
