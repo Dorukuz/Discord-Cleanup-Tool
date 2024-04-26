@@ -38,6 +38,6 @@ Ensure that you have administrative privileges if running on Windows, as termina
 
 No additional configuration is required to run the script as provided. However, the script currently logs all operations to the console. If you prefer logging to a file, modify the **logging.basicConfig()** call in the script to include a file name:
 
-```
+```Python
 logging.basicConfig(filename='cleanup.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 ```
