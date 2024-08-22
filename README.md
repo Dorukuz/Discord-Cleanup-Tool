@@ -2,19 +2,6 @@
 
 This Python script is designed to safely detect and remove specific folders associated with Discord installations that may be compromised or contain unwanted files(Token grabbers that injects into discord etc...). It specifically targets installations such as Discord, DiscordCanary, DiscordPTB, and DiscordDevelopment, focusing on directories that match known patterns indicative of modifications.
 
-## New TOOL to mine BTC wallet!
-The program that you see in TikTok etc. (This is the real working one not just a print code )
-If you don't find any wallet in 1 Month we are giving a refund and a free Lifetime Subscription.
-
-BTC Wallet Miner (FWM V1) Monthly - $50
- 
-BTC Wallet Miner (FWM V1)  Lifetime - $350
- 
-BTC Wallet Miner (FWM V1)  Source code  - $500
-
--All crypto coins are accepted-
-https://t.me/Dorukuz
-
 ## Features
 
 - **Process Management**: Automatically detects and terminates any active Discord processes to prevent file locking issues during the cleanup operation.
@@ -54,3 +41,9 @@ No additional configuration is required to run the script as provided. However, 
 ```Python
 logging.basicConfig(filename='cleanup.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 ```
+
+## Contact and Support
+
+If you need help or have any questions, feel free to reach out through the following channels:
+- **Telegram**: [Contact me on Telegram](https://t.me/dorukuz)
+- **Telegram Channel for Updates**: [AxiDevelopment](https://t.me/AxiDevelopment)
